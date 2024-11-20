@@ -34,5 +34,5 @@ The business objective is to know when we receive a loan application should we a
 
 
 ## Acknowledgements
-Sumanth Bharadwaj Prasannakumar
-Swagat Kumar Mishra
+- Sumanth Bharadwaj Prasannakumar
+- Swagat Kumar Mishra
